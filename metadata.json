@@ -1,0 +1,8 @@
+{
+  "name": "ToolNova",
+  "description": "A fast, privacy-focused platform offering modular, client-side online tools for professionals and everyday productivity tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
